@@ -14,3 +14,5 @@ src="assets/img/hi.gif" width="32" /></h1></div>
 > **ENGINEERING BLOG: <a href="https://blog.kimdonghee.dev">BLOG.KIMDONGHEE.DEV</a>**
 > 
 > **CONTACT: <b><a href="mailto:hello@kimdonghee.dev">hello@kimdonghee.dev</a>**
+
+##### We’ll find a way. We always have. -Cooper
