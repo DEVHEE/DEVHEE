@@ -1,6 +1,8 @@
 <div align="center">
 <img
 src="assets/img/pikachu.gif" />
+<img
+src="assets/img/pikachu.gif" />
 </div>
 
 <div align="center"><h1><img src="assets/img/sunglass.gif" width="32" /> Hey There! I am KIM DONGHEE <img
