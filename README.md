@@ -1,6 +1,5 @@
 <div align="center">
 <img
-src="assets/img/pikachu.gif" /><img
 src="assets/img/pikachu.gif" />
 </div>
 
