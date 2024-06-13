@@ -3,7 +3,7 @@
 src="assets/img/pikachu.gif" />
 </div>
 
-<div align="center"><h1><img src="assets/img/sunglass.gif" width="32" /> Hey There! I'm KIM DONGHEE <img
+<div align="center"><h1><img src="assets/img/sunglass.gif" width="32" /> Hey There! I am KIM DONGHEE <img
 src="assets/img/hi.gif" width="32" /></h1></div>
 
 > [!NOTE]
