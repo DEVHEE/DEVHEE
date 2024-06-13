@@ -1,5 +1,5 @@
-<h1>Hey There! I'm <a href="https://github.com/DEVHEE/" target="_blank">KIM DONGHEE</a> <img
-src="/hi.gif" width="32" /></h1>
+<h1><img src="assets/img/sunglass.gif" width="32" /> Hey There! I'm <a href="https://github.com/DEVHEE/" target="_blank">KIM DONGHEE</a> <img
+src="assets/img/hi.gif" width="32" /></h1>
 
 <h3>For more information, please refer to the portfolio website.</h4>
 
